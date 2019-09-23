@@ -1,0 +1,17 @@
+{ 
+  "AddressLine1": "string",
+  "AddressLine2": "string",
+  "City": "string",
+  "ContactType": "string",
+  "CountryCode": "string",
+  "Email": "string",
+  "ExtraParams": [ 
+  ],
+  "Fax": "string",
+  "FirstName": "string",
+  "LastName": "string",
+  "OrganizationName": "string",
+  "PhoneNumber": "string",
+  "State": "string",
+  "ZipCode": "string"
+}
